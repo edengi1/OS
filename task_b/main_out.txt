@@ -1,0 +1,56 @@
+----------------- TASK 3  (9558)-----------------
+daemon pid: 9562
+----------------- TASK 2 -----------------
+Hello from Task 2 MAIN, PID = 9559
+Hello from Task 2 MAIN, PID = 9559
+Hello from Task 2 MAIN, PID = 9559
+Hello from Task 2 MAIN, PID = 9559
+Hello from Task 2 MAIN, PID = 9559
+Hello from Task 2 MAIN, PID = 9559
+Hello from Task 2 MAIN, PID = 9559
+Hello from Task 2 MAIN, PID = 9559
+Hello from Task 2 MAIN, PID = 9559
+Hello from Task 2 MAIN, PID = 9559
+pid1: 9560
+pid2: 9561
+Task 2 finished!
+----------------- TASK 1 -----------------
+Hello from Task 1 APP, my PID is: 9557
+Hello from Task 1 APP, my PID is: 9557
+Hello from Task 1 APP, my PID is: 9557
+Hello from Task 1 APP, my PID is: 9557
+Hello from Task 1 APP, my PID is: 9557
+Hello from Task 1 APP, my PID is: 9557
+Hello from Task 1 APP, my PID is: 9557
+Hello from Task 1 APP, my PID is: 9557
+Hello from Task 1 APP, my PID is: 9557
+Hello from Task 1 APP, my PID is: 9557
+Main App 9557
+----------- Task 1 finished! ------------
+Main PID is 9556
+Wait for processes: ...
+----------------- TASK 1 -----------------
+Hello from Task 1 Child, my PID is: 9563
+Hello from Task 1 Child, my PID is: 9563
+Hello from Task 1 Child, my PID is: 9563
+Hello from Task 1 Child, my PID is: 9563
+Hello from Task 1 Child, my PID is: 9563
+Hello from Task 1 Child, my PID is: 9563
+Hello from Task 1 Child, my PID is: 9563
+Hello from Task 1 Child, my PID is: 9563
+Hello from Task 1 Child, my PID is: 9563
+Hello from Task 1 Child, my PID is: 9563
+----------------- TASK 1 -----------------
+Hello from Task 1 Grandchild, my PID is: 9564
+Hello from Task 1 Grandchild, my PID is: 9564
+Hello from Task 1 Grandchild, my PID is: 9564
+Hello from Task 1 Grandchild, my PID is: 9564
+Hello from Task 1 Grandchild, my PID is: 9564
+Hello from Task 1 Grandchild, my PID is: 9564
+Hello from Task 1 Grandchild, my PID is: 9564
+Hello from Task 1 Grandchild, my PID is: 9564
+Hello from Task 1 Grandchild, my PID is: 9564
+Hello from Task 1 Grandchild, my PID is: 9564
+----------------- TASK 3  (9558)-----------------
+Daemon started!
+Daemon finished working!

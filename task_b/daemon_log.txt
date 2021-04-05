@@ -1,0 +1,3 @@
+Apr  4 20:35:30 itay-VirtualBox MyDaemonLog[9487]: daemon stating..
+Apr  4 20:35:33 itay-VirtualBox MyDaemonLog[9487]: daemon doing some work..
+Apr  4 20:35:36 itay-VirtualBox MyDaemonLog[9487]: daemon finished..
